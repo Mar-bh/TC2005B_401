@@ -33,4 +33,7 @@ public class Movimiento : MonoBehaviour //camel case y empezar por mayúscula
     void LateUpdate(){
 
     }
+
+    //CODIGO MUY UTIL
+    //HOLA ESTOY EN EL REPO
 }
