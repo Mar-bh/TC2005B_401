@@ -42,6 +42,8 @@ public class Movimiento : MonoBehaviour //camel case y empezar por mayúscula
         _transform =  GetComponent<Transform>();
         //si tienes require esto ya no es necesario
         Assert.IsNotNull(_transform, "ES NECESARIO PARA MOVIMIENTO TENER UN TRANSFORM");
+
+        //Esto solo existe en la rama
     }
 
     // Update is called once per frame
